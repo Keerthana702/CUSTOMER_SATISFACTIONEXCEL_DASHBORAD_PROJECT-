@@ -4,6 +4,8 @@ This project aims to create an interactive Excel dashboard that contains data fr
 To use the Excel dashboard, simply open the provided Excel file and interact with the Slicers to filter data as needed. The dashboard will automatically update based on the selected filters, providing real-time insights into different aspects of the business.
 
 #Key Features
+
+
 Data Consolidation: The dashboard consolidates data from multiple sources, ensuring all relevant information is presented in a single, unified view.
 
 Interactive Slicers: Slicers allow users to filter data instantly, enabling them to focus on specific time periods, product categories, customer segments, and more.
